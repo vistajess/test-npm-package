@@ -1,0 +1,15 @@
+{
+  "name": "@jevi_test/first-package",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": "",
+  "keywords": ["first package jevi", "jevi"],
+  "author": "Jess Vista",
+  "license": "MIT",
+  "repository": {
+    "type": "git"
+  }
+}
