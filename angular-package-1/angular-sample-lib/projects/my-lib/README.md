@@ -22,3 +22,9 @@ Run `ng test my-lib` to execute the unit tests via [Karma](https://karma-runner.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+
+## How to setup my-second-lib to be dependency of my-lib
+
+![screenshot](https://raw.githubusercontent.com/vistajess/test-npm-package/refs/heads/main/angular-package-1/angular-sample-lib/library%20dependency%20setup.PNG)
